@@ -95,6 +95,14 @@
   --sidebar-accent-foreground: oklch(0.208 0.042 265.755);
   --sidebar-border: oklch(0.929 0.013 255.508);
   --sidebar-ring: oklch(0.704 0.04 256.788);
+  --whatsapp: oklch(0.62 0.17 145);
+  --whatsapp-foreground: oklch(0.99 0 0);
+  --gradient-hero: linear-gradient(135deg, oklch(0.42 0.16 258) 0%, oklch(0.32 0.12 250) 100%);
+  --gradient-accent: linear-gradient(135deg, oklch(0.55 0.18 28) 0%, oklch(0.48 0.2 22) 100%);
+  --shadow-elegant: 0 20px 60px -20px oklch(0.42 0.16 258 / 0.25);
+  --shadow-card: 0 4px 24px -8px oklch(0.18 0.04 250 / 0.12);
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
 }
 
 .dark {
